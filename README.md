@@ -2,7 +2,6 @@
 
 A modern and responsive personal portfolio website showcasing my work, skills, and experience in **Computer Science**, **Cybersecurity**, and **Prompt Engineering**.
 
----
 
 ## 👨‍💻 About
 
@@ -14,7 +13,6 @@ This portfolio represents my technical journey and serves as a central hub for:
 
 Built with a strong focus on **performance, design, and user experience**, featuring a clean UI with a modern neon theme.
 
----
 
 ## ✨ Features
 
@@ -26,7 +24,6 @@ Built with a strong focus on **performance, design, and user experience**, featu
 - Resume download option
 - Minimal and modern UI design
 
----
 
 ## 🛠 Tech Stack
 
@@ -41,7 +38,6 @@ Built with a strong focus on **performance, design, and user experience**, featu
 - Typed.js
 - Boxicons
 
----
 
 ## 📂 Project Structure
 
@@ -58,13 +54,10 @@ portfolio/
 └── README.md
 
 
----
-
 ## 🌐 Live Demo
 
-> Add your deployed link here (GitHub Pages / Netlify / Vercel)
+> (https://spradheeshkumar.github.io/Portfolio_Website/)
 
----
 
 ## 📬 Contact
 
@@ -74,7 +67,6 @@ If you'd like to collaborate, hire, or discuss technology:
 - 💼 LinkedIn: *(https://www.linkedin.com/in/s-pradheesh-kumar)*
 - 🐙 GitHub: *(https://github.com/spradheeshkumar)*
 
----
 
 ## 📜 License
 
@@ -82,7 +74,6 @@ This project is open for learning and inspiration.
 
 You are free to use or modify it, but **credit is appreciated**.
 
----
 
 ## ✍️ Author
 
