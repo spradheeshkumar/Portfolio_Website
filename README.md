@@ -42,30 +42,29 @@ Built with a strong focus on **performance, design, and user experience**, featu
 ## 📂 Project Structure
 
 portfolio/
-│
-├── index.html
-├── stylesheet.css
-├── main.js
-├── backgroundimg.png
-├── Circleimg.png
-├── project1.png
-├── project2.png
-├── project3.png
-└── README.md
+├── index.html          # Main HTML file
+├── stylesheet.css      # Styling and layout
+├── main.js             # JavaScript functionality
+├── backgroundimg.png   # Background image
+├── Circleimg.png       # Profile/graphic image
+├── project1.png        # Project preview
+├── project2.png        # Project preview
+├── project3.png        # Project preview
+└── README.md           # Project documentation
 
 
 ## 🌐 Live Demo
 
-> (https://spradheeshkumar.github.io/Portfolio_Website/)
+> https://spradheeshkumar.github.io/Portfolio_Website/
 
 
 ## 📬 Contact
 
 If you'd like to collaborate, hire, or discuss technology:
 
-- 📧 Email: *(pradheeshkumar7703@gmail.com)*
-- 💼 LinkedIn: *(https://www.linkedin.com/in/s-pradheesh-kumar)*
-- 🐙 GitHub: *(https://github.com/spradheeshkumar)*
+- 📧 Email: *pradheeshkumar7703@gmail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/s-pradheesh-kumar*
+- 🐙 GitHub: *https://github.com/spradheeshkumar*
 
 
 ## 📜 License
