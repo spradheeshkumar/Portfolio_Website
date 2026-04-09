@@ -1,4 +1,4 @@
-# Portfolio_pradheesh
+# Portfolio_Pradheesh
 A personal portfolio website showcasing my skills, projects, and experience as a Computer Science Engineer, Cybersecurity Student, and Prompt Engineer.
 
 S Pradheesh Kumar | Portfolio Website
