@@ -41,6 +41,7 @@ Built with a strong focus on **performance, design, and user experience**, featu
 
 ## 📂 Project Structure
 
+```bash
 portfolio/
 ├── index.html          # Main HTML file
 ├── stylesheet.css      # Styling and layout
@@ -51,6 +52,7 @@ portfolio/
 ├── project2.png        # Project preview
 ├── project3.png        # Project preview
 └── README.md           # Project documentation
+```
 
 
 ## 🌐 Live Demo
