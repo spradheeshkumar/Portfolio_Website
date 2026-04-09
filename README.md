@@ -66,12 +66,6 @@ portfolio/
 
 ---
 
-## 📸 Preview
-
-> *(Optional: Add screenshots of your portfolio here)*
-
----
-
 ## 📬 Contact
 
 If you'd like to collaborate, hire, or discuss technology:
